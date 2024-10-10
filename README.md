@@ -41,7 +41,7 @@ ProjectPartner/
 
 ### 安装
 
-1. 下载 APK 文件，你可以在 [Releases](https://github.com/yourusername/ProjectPartner/releases) 页面找到最新的 APK 文件。
+1. 下载 APK 文件，你可以在 [APP](https://github.com/102202107/102202107-102202140/blob/main/app-release.apk) 页面找到最新的 APK 文件。
 2. 将 APK 文件传输到你的 Android 设备。
 3. 打开 APK 文件并按照提示完成安装。
 
